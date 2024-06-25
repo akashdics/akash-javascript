@@ -1,0 +1,2 @@
+# akash-javascript
+Learn Javascript
